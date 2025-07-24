@@ -20,8 +20,4 @@ Track your income & expenses, get real-time insights, and manage your budget lik
 
 ## 📦 Project Structure
 - `/client` → Frontend  
-<<<<<<< HEAD
 - `/server` → Backend
-=======
-- `/server` → Backend
->>>>>>> e05fd68 (First Commit)
